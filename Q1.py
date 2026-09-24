@@ -18,7 +18,7 @@ Predict output:-
  y = int(x) 
  z = float(y) / 4 
  print(type(x).__name__, y * 2, round(z, 2), y % 2 == 0)
- ##O/p => <class 'str'>
+ ##O/p => str
           30
           3.75
           True or 1
