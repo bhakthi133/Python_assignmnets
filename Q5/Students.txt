@@ -1,0 +1,7 @@
+Bhakthi,92
+Rahul,85
+Ananya,96
+Kiran,78
+Sneha,88
+
+Class average 87.8 | Total Student: 5
