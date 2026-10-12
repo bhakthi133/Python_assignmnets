@@ -8,7 +8,13 @@ Build a class hierarchy for a library system:
 (b) Subclass Book: add pages and genre, override describe(). 
 (c) Subclass Magazine: add issue_number and is_monthly, override describe(). 
 (d) Create a list with one Book and one Magazine, loop and call describe() -- demonstrate polymorphism. 
-(e) Predict the output: class Animal:     def __init__(self, name): self.name = name     def speak(self): return f'{self.name} speaks' class Dog(Animal):     def speak(self): return f'{self.name} says Woof!' for a in [Animal('Cat'), Dog('Rex')]:     print(a.speak()) 
+(e) Predict the output: 
+class Animal:     
+    def __init__(self, name): self.name = name     
+    def speak(self): return f'{self.name} speaks' 
+class Dog(Animal):     
+    def speak(self): return f'{self.name} says Woof!' 
+for a in [Animal('Cat'), Dog('Rex')]:     print(a.speak()) 
 
 """
 

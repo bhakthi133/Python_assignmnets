@@ -6,6 +6,7 @@ Bonus: Make class Person an abstract class and make get_gender an abstract metho
 same class. The two child classes must inherit and implement get_gender. i.e., When trying to
 initialize an object of class Person, the program must throw an error
 """
+
 from abc import ABC,abstractmethod
 class Person(ABC):
     @abstractmethod
