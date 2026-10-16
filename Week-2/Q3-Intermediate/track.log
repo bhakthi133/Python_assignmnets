@@ -1,0 +1,20 @@
+INFO:The start of program
+ERROR:Invalid divisor
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_17516\2721216519.py", line 11, in batch_divide
+    r=safe_divide(i[0],i[1])
+      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_17516\2721216519.py", line 27, in safe_divide
+    return round(divided/divisor,2)
+                ~~~~~~~^~~~~~~~
+ZeroDivisionError: division by zero
+ERROR:Invalid type used in operation
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_17516\2721216519.py", line 11, in batch_divide
+    r=safe_divide(i[0],i[1])
+      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_17516\2721216519.py", line 27, in safe_divide
+    return round(divided/divisor,2)
+                ~~~~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+INFO:The divided safe 
