@@ -1,0 +1,41 @@
+order_id,customer,email,city,country,order_date,quantity,unit_price,total
+100000,Ethan Zeller,ethan.zeller1@example.com,Jaipur,IN,2021-07-10,11,45.67,502.37
+100001,Elena Underhill,elena.underhill2@example.net,Porto Alegre,BR,2024-04-28,7,89.59,627.13
+100002,Ethan Farrow,ethan.farrow3@example.org,Krakow,PL,2023-08-24,11,141.1,1552.1
+100003,Victor Brennan,victor.brennan4@example.com,Lisbon,PT,2024-12-18,3,110.76,332.28
+100004,Felix Ibarra,felix.ibarra5@example.net,Graz,AT,2025-11-14,1,159.99,159.99
+100005,Kira Hollis,kira.hollis6@example.com,Cork,IE,2025-06-25,4,124.33,497.32
+100006,Priya Ibarra,priya.ibarra7@example.com,Valencia,ES,2022-01-13,4,211.89,847.56
+100007,Yusuf Okafor,yusuf.okafor8@example.org,Austin,US,2024-12-12,6,61.83,370.98
+100008,Yusuf Jansen,yusuf.jansen9@example.org,Valencia,ES,2023-07-25,12,178.38,2140.56
+100009,Yusuf Underhill,yusuf.underhill10@example.com,Cork,IE,2022-08-18,1,224.32,224.32
+100010,Mia Farrow,mia.farrow11@example.net,Krakow,PL,2022-05-16,1,182.97,182.97
+100011,Caleb Abbott,caleb.abbott12@example.net,Calgary,CA,2025-12-09,4,220.11,880.44
+100012,Ivy Whitlock,ivy.whitlock13@example.org,Cork,IE,2025-03-02,9,207.09,1863.81
+100013,Caleb Whitlock,caleb.whitlock14@example.com,Valencia,ES,2025-07-10,4,184.5,738.0
+100014,Quinn Whitlock,quinn.whitlock15@example.com,Nairobi,KE,2019-05-05,6,224.37,1346.22
+100015,Hana Castillo,hana.castillo16@example.org,Krakow,PL,2025-01-01,12,92.92,1115.04
+100016,Mateo Varga,mateo.varga17@example.net,Krakow,PL,2019-03-20,4,236.72,946.88
+100017,Omar Eklund,omar.eklund18@example.com,Porto Alegre,BR,2020-10-15,9,61.85,556.65
+100018,Nora Grieve,nora.grieve19@example.org,Lisbon,PT,2019-05-21,2,129.91,259.82
+100019,Elena Marchetti,elena.marchetti20@example.com,Graz,AT,2024-02-16,4,117.34,469.36
+100020,Zoe Pruitt,zoe.pruitt21@example.com,Tampere,FI,2020-02-24,5,203.56,1017.8
+100021,Priya Rahman,priya.rahman22@example.com,Krakow,PL,2023-04-24,5,152.29,761.45
+100022,Mateo Okafor,mateo.okafor23@example.com,Utrecht,NL,2021-09-12,10,218.19,2181.9
+100023,Priya Abbott,priya.abbott24@example.com,Tampere,FI,2021-11-20,4,5.19,20.76
+100024,Liam Rahman,liam.rahman25@example.org,Osaka,JP,2022-02-12,3,113.59,340.77
+100025,Mia Tanaka,mia.tanaka26@example.org,Valencia,ES,2024-07-07,12,211.4,2536.8
+100026,Caleb Novak,caleb.novak27@example.com,Lisbon,PT,2019-03-24,5,179.96,899.8
+100027,Soren Tanaka,soren.tanaka28@example.net,Tampere,FI,2022-11-03,1,197.68,197.68
+100028,Nora Tanaka,nora.tanaka29@example.net,Adelaide,AU,2025-08-11,11,204.77,2252.47
+100029,Elena Marchetti,elena.marchetti30@example.org,Tampere,FI,2023-08-08,8,237.71,1901.68
+100030,Victor Pruitt,victor.pruitt31@example.com,Calgary,CA,2019-03-25,6,20.78,124.68
+100031,Liam Pruitt,liam.pruitt32@example.org,Leeds,GB,2023-10-24,11,214.82,2363.02
+100032,Wren Sandoval,wren.sandoval33@example.com,Jaipur,IN,2021-07-20,10,49.94,499.4
+100033,Owen Hollis,owen.hollis34@example.org,Osaka,JP,2022-05-24,7,109.91,769.37
+100034,Ruby Rahman,ruby.rahman35@example.com,Tampere,FI,2022-12-02,12,127.31,1527.72
+100035,Owen Grieve,owen.grieve36@example.net,Austin,US,2019-05-11,10,87.24,872.4
+100036,Kira Sandoval,kira.sandoval37@example.net,Krakow,PL,2023-11-17,8,50.76,406.08
+100037,Kira Brennan,kira.brennan38@example.net,Cork,IE,2022-06-28,7,93.04,651.28
+100038,Victor Varga,victor.varga39@example.com,Lisbon,PT,2021-07-24,9,202.03,1818.27
+100039,Mateo Varga,mateo.varga40@example.org,Cork,IE,2020-06-12,2,42.37,84.74

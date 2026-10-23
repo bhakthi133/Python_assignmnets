@@ -1,0 +1,16 @@
+customer_id,name,email,city,country,plan,active
+1,Ethan Zeller,ethan.zeller1@example.com,Jaipur,IN,team,True
+2,Elena Underhill,elena.underhill2@example.net,Porto Alegre,BR,free,True
+3,Ethan Farrow,ethan.farrow3@example.org,Krakow,PL,business,False
+4,Victor Brennan,victor.brennan4@example.com,Lisbon,PT,business,True
+5,Felix Ibarra,felix.ibarra5@example.net,Graz,AT,starter,False
+6,Kira Hollis,kira.hollis6@example.com,Cork,IE,starter,True
+7,Priya Ibarra,priya.ibarra7@example.com,Valencia,ES,free,True
+8,Yusuf Okafor,yusuf.okafor8@example.org,Austin,US,team,True
+9,Yusuf Jansen,yusuf.jansen9@example.org,Valencia,ES,business,True
+10,Yusuf Underhill,yusuf.underhill10@example.com,Cork,IE,team,True
+11,Mia Farrow,mia.farrow11@example.net,Krakow,PL,free,True
+12,Caleb Abbott,caleb.abbott12@example.net,Calgary,CA,team,False
+13,Ivy Whitlock,ivy.whitlock13@example.org,Cork,IE,starter,True
+14,Caleb Whitlock,caleb.whitlock14@example.com,Valencia,ES,starter,True
+15,Quinn Whitlock,quinn.whitlock15@example.com,Nairobi,KE,free,True
