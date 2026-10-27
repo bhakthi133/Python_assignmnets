@@ -1,0 +1,81 @@
+{
+    "cols": [
+        "id",
+        "name",
+        "email",
+        "postalZip",
+        "phone"
+    ],
+    "data": [
+        [
+            1,
+            "John Smith",
+            "john123@yahoo.com",
+            "5600",
+            "(816) 530-4269"
+        ],
+        [
+            2,
+            "Alice Brown",
+            "alice.brown@outlook.com",
+            560001,
+            "1-811-920-9732"
+        ],
+        [
+            3,
+            "David Wilson",
+            "david.wilson@gmail.com",
+            "AB5600CD",
+            "9876543210"
+        ],
+        [
+            4,
+            "Priya Sharma",
+            "priya.sharma@example.com",
+            "56A001",
+            "(987) 654-3210"
+        ],
+        [
+            5,
+            "Rahul Kumar",
+            "rahul.kumar@yahoo.in",
+            "BENG560045",
+            "1-234-567-8901"
+        ],
+        [
+            6,
+            "Emma Davis",
+            "emma.davis@hotmail.com",
+            75001,
+            "(212) 555-0198"
+        ],
+        [
+            7,
+            "Michael Brown",
+            "michael.brown@company.org",
+            "A123B456",
+            "555-123-4567"
+        ],
+        [
+            8,
+            "Sneha Rao",
+            "sneha.rao@gmail.com",
+            "5600X45",
+            "91 98765 43210"
+        ],
+        [
+            9,
+            "James Taylor",
+            "james.taylor@outlook.com",
+            400001,
+            "1-650-555-1234"
+        ],
+        [
+            10,
+            "Ananya Sharma",
+            "ananya.sharma@yahoo.com",
+            "KA560078",
+            "(123) 456-7890"
+        ]
+    ]
+}
