@@ -62,8 +62,8 @@ for name, parameters in matches:
 
         param_list.append(param_dict)
 
-        li[i]["parameters"] = param_list
-        i=i+1
+    li[i]["parameters"] = param_list
+    i=i+1
     print("-------------------")
 
 body_pat=r"BEGIN(.*?)END\s*//"

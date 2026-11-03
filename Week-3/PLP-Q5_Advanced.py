@@ -13,6 +13,7 @@ Given a list of at least 6 employee dicts (name, dept, salary) across 3 departme
 
 from functools import reduce
 employees = [
+    
     {"name": "Asha", "dept": "Engineering", "salary": 80000},
     {"name": "Rahul", "dept": "HR", "salary": 55000},
     {"name": "Priya", "dept": "Engineering", "salary": 75000},

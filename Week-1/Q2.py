@@ -33,6 +33,7 @@ def sort_dict(d,score):
     for i in score:
         d[i]=d.get(i,0)+1
     print(d)
+    sorted_d={k:v for k,v in sorted(d.items(),key=lambda item:item[0])}
 
 def tup_op(score):
     t=(min(score),max(score),len(score))

@@ -89,6 +89,7 @@ with Filemanager("Tempfile.txt","r") as f:
     for i in range(0,3):
         read=f.readline()
         print(read.strip())
+        
 exit_conf=os.path.exists("Tempfile.txt")
 if(not exit_conf):
     print("Confirmed : The file deletd after read thgrough __exit__ ncontext manager")

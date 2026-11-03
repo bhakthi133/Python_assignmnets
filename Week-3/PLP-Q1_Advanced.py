@@ -33,6 +33,7 @@ for i in fibanacci_gen(4):
 print(list(gen))
 
 print("=====")
+
 def take(n,gen):
     res=[]
     for i in range(n):
